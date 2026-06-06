@@ -94,7 +94,7 @@ This repository was developed as part of my Machine Learning Internship at Codve
 **Ankur Dutta**
 
 * GitHub: https://github.com/AnkurDuttaHQ
-* LinkedIn: https://www.linkedin.com/in/ankur-dutta-dev
+* LinkedIn: www.linkedin.com/in/ankur-dutta01
 
 ## ⭐ Support
 
